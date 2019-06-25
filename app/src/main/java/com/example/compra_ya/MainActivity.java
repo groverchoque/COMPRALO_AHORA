@@ -1,4 +1,4 @@
-package com.example.compralo_ya;
+package com.example.compra_ya;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

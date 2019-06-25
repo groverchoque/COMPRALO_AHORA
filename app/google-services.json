@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "311984207681",
+    "firebase_url": "https://compraya-fd577.firebaseio.com",
+    "project_id": "compraya-fd577",
+    "storage_bucket": "compraya-fd577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311984207681:android:4ad6381423719ecf",
+        "android_client_info": {
+          "package_name": "com.example.compra_ya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311984207681-p9m7avadviurt8grrjaif8lagp3hg90r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.compra_ya",
+            "certificate_hash": "14150202dd00eec3a50e0214227d3f831939facc"
+          }
+        },
+        {
+          "client_id": "311984207681-hbjj39429c459np1flq8q77b53u4dkck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALCGmuZh9TuyNIRmkDQBqT1CceWQNJK8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311984207681-hbjj39429c459np1flq8q77b53u4dkck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.example.compralo_ya;
+package com.example.compra_ya;
 
 import org.junit.Test;
 
