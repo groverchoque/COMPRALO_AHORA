@@ -1,6 +1,0 @@
-<root>
-    <item
-        name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder enableAutoManage(android.support.v4.app.FragmentActivity, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener)'>
-        <annotation name='org.jetbrains.annotations.NotNull' />
-    </item>
-</root>

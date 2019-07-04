@@ -1,4 +1,4 @@
-package com.example.compra_ya;
+package com.example.seguridad22;
 
 import org.junit.Test;
 
